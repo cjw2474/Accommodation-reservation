@@ -23,11 +23,9 @@
 2. 로그인
    * 일반 로그인, 관리자 로그인
    * 관리자 전용 탭
-3. 회원목록
-   * 회원 목록
+3. 회원 정보
    * 회원 정보 수정/탈퇴
-4. 숙소
-   * 숙소 관리
+4. 숙소 정보
    * 숙소 정보 수정/등록
 5. 공지사항
    * 관리자만 공지사항 작성 가능
@@ -45,13 +43,11 @@
 ![로그인](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/9d7502c2-43e5-4d8f-847c-f09671494d75)
 ![관리자전용탭](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/5a4d52ce-1f54-4345-828f-edb6df721192)
 
-### 회원목록
-![회원목록](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/518bdb6a-1c25-4d0a-b694-7dc503225e5d)
+### 회원 정보
 ![회원정보수정](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/22b835d9-a791-4ae0-a913-82838243f154)
 ![회원탈퇴](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/8fe75187-02f1-4127-b977-f8c7991c9fb3)
 
-### 숙소
-![숙소관리](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/03dac260-57d3-4320-aa8f-c458996b9bb0)
+### 숙소 정보
 ![숙소등록](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/381f2f74-130c-455a-822f-305cf12a62e4)
 ![숙소수정](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/9e769607-9a87-41b5-b230-26023bf81a3a)
 
