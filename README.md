@@ -26,10 +26,8 @@
 3. 회원 정보
    * 회원 정보 수정/탈퇴
 4. 숙소 정보
-   * 숙소 정보 수정/등록
-5. 공지사항
-   * 관리자만 공지사항 작성 가능
-   * 관리자만 이벤트 게시글 작성 가능
+   * 숙소 정보 수정/등록/삭제
+   * 숙소 목록/객실 목록/등록
 
 ## 스크린샷
 
@@ -48,9 +46,9 @@
 ![회원탈퇴](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/8fe75187-02f1-4127-b977-f8c7991c9fb3)
 
 ### 숙소 정보
+![숙소수정](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/572580a2-a4e5-45b4-9f79-28e2dd97e17d)
 ![숙소등록](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/381f2f74-130c-455a-822f-305cf12a62e4)
-![숙소수정](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/9e769607-9a87-41b5-b230-26023bf81a3a)
-
-### 공지사항
-![공지사항](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/fdac37ac-d8d4-4e8b-ab1c-7f766edbe911)
-![이벤트](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/cd52bd2a-4d85-43a4-a460-58cad968e22e)
+![숙소삭제](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/b449ad6f-8790-48d6-9990-8e5f945d42a7)
+![숙소목록](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/38652f40-bc06-42ff-9a10-3ad4eb627cf8)
+![객실 목록](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/a25c4324-8941-426b-b138-9ff05b4f5b4f)
+![객실등록](https://github.com/cjw2474/Accommodation-reservation/assets/127098229/427734e0-7560-45a4-8153-8fcf0f4296da)
