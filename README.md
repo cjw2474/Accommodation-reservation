@@ -14,6 +14,8 @@
 - **IDE** : Eclipse
 - **Server** : Apache Tomcat
 - **Database** : Oracle DB
+- **Framework** : Spring Framework
+- **Library** : Mybatis
 
 ## 기능
 1. 회원가입
