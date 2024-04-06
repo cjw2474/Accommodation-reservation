@@ -15,7 +15,7 @@
 - **Server** : Apache Tomcat
 - **Database** : Oracle DB
 - **Framework** : Spring Framework
-- **Library** : Mybatis
+- **Library** : Mybatis, Junit, Commons FileUpload, Orcale JDBC
 
 ## 기능
 1. 회원가입
